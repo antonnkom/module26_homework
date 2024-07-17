@@ -1,2 +1,2 @@
 # module26_homework
-Examples of testing in JavaScript using the Jest framework
+Examples of unit tests in JavaScript using Jest framework
